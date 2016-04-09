@@ -1,0 +1,13 @@
+
+# IntelliJ project files
+.idea
+*.iml
+
+# Gen maven
+out
+target/
+release.properties
+buildNumber.properties
+
+# ActiveMQ
+activemq-data
