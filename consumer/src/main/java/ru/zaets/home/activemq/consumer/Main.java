@@ -3,6 +3,7 @@ package ru.zaets.home.activemq.consumer;
 import org.apache.activemq.ActiveMQConnectionFactory;
 
 import javax.jms.*;
+import java.nio.ByteBuffer;
 
 /**
  * Created by dmitriyz on 09.04.16.
